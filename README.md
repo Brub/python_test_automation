@@ -2,7 +2,7 @@
 Info about test automation with python
 
 ## Appium
-[Appium tips](appium/tips.md)
+[Tips](appium/tips.md)  
 [ActionBuilder](appium/action_buildr.md)
 
 ## Playwright
